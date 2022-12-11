@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Monthly Loan Payment Calc</string>
+    <string name="monthly">Monthly Payment:  %s</string>
+</resources>
